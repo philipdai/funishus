@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+LICENSE
+Procfile
+README.md
+node_modules/
+nodemon.json
+npm-debug.log
+package.json
+
